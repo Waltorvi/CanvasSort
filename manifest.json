@@ -1,0 +1,14 @@
+{
+    "id": "sort-canvas-files",
+    "name": "Sort Canvas Files",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Sorts files based on their connections in Canvas.",
+    "author": "Waltorvi",
+    "authorUrl": "https://github.com/Waltorvi",
+    "isDesktopOnly": false,
+    "settings": {
+      "settings": true
+    },
+    "license": "MIT"
+}
