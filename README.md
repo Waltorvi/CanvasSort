@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Obsidian Sort Canvas Files Plugin
 
 This plugin for Obsidian (https://obsidian.md) allows you to sort files based on their connections in a Canvas file.
@@ -46,3 +47,6 @@ If you encounter any issues or have feature requests, please file them in the Gi
 ## License
 
 [MIT](LICENSE.md)
+=======
+# CanvasSort
+>>>>>>> 73eaad6a9426c4a59cd9198596b54f1091226b2e
